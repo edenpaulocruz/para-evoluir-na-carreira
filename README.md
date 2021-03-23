@@ -61,3 +61,11 @@ Lista de alguns desafios lúdicos, de código aberto, de empregos para testar se
 ### [Back-end Challenges](https://github.com/CollabCodeTech/backend-challenges)
 
 Uma lista pública de desafios de código aberto de empregos em todo o mundo.
+
+### [Developer Practice](https://github.com/alinebastos/dev-practice)
+
+Aqui tem desafios, jogos, ideias de projetos, links para hackathons online, tudo em diversas linguagens, para quem quer praticar tudo o que está aprendendo.
+
+### [Best-README-Template](https://github.com/othneildrew/Best-README-Template)
+
+Uma template de README bem completo! Ideias muito boas de como deixar seu README bem interessante.
